@@ -129,7 +129,7 @@ async def about(ctx):
                     inline=False)            
    
     await ctx.send(embed=embed)
-client.run('MTIwMDk5NzAwODQ3NTk0NzA5OQ.GRdV-m.m8xVO9aEon8qBW2wYoqH5UANctYvO4nVaSAxjs')
+client.run('YOUR TOKEN')
 
 
 
